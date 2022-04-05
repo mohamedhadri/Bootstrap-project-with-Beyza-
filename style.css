@@ -1,0 +1,95 @@
+
+
+/*beyza section start*/
+.upper{
+    background-color: rgba(8, 40, 102, 0.74) ;
+
+}
+.down{
+    background-color: rgba(0, 0, 0, 0.04);
+}
+.btn{
+    border-radius: 12px;
+}
+.btn-outline-primary {
+    font-family: Raleway-SemiBold;
+    font-size: 13px;
+    color: rgba(58, 133, 191, 0.75);
+    letter-spacing: 1px;
+    line-height: 15px;
+    border: 2px solid rgba(58, 133, 191, 0.75);
+    border-radius: 100%;
+    background: transparent;
+    transition: all 0.3s ease 0s;
+  }
+/*beyza section end*/
+
+/* mohamed section start */
+.first-section{
+   background-position: center;
+    background-image: url(https://img.freepik.com/free-photo/beautiful-architecture-office-business-building-with-glass-window-shape_74190-9954.jpg?w=2000);
+ }
+#mo-btn{
+  height: 45px;
+  width: 200px;
+  border-radius: 20px;
+  border-color: white;
+}
+.first-section h2{
+  color: white;
+font-weight: 700;
+}
+.first-section p{
+  font-weight: 500;
+  color: white;
+}
+
+.custom-input{
+  border-color: white !important;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  position:relative;
+  left:4%;
+
+}
+.cutsom-box-shadow{
+ box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.cutsom-box-shadow:hover{
+ box-shadow: rgba(53, 194, 255, 0.8) 0px 3px 8px;
+}
+  .input-control{
+    max-width: 900px !important;
+    min-width: 400px;
+
+  }
+
+.custom-color{
+  background-color:  rgb(72, 75, 247)
+}
+.column-header{
+  color:rgb(72, 75, 247);
+  font-size: 1rem;
+  font-weight: bold;
+}
+/*added font weight, made font size smaller and then logos style deleted in html cause this was effecting all of them -b */
+.footer-info{
+  padding: 4px;
+}
+.bold{
+  font-weight: bold;
+}
+/*beyza added2*/
+.search-section {
+  background-color: rgba(0, 0, 0, 0.04);
+  height: 225px;
+}/*added height to make div bigger -b*/
+.h2font {
+  color: rgba(8, 40, 102, 0.74);
+}
+.forback{
+   height: 300px;
+  background-color: rgba(8, 40, 102, 0.74);
+ 
+ 
+}
+/* mohamed section end */
